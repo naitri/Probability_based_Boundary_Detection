@@ -7,7 +7,7 @@ This repository consists of comparison of baseline edge detection algorithms lik
 
 The algorithm of PBLite detection is shown below:
 
-<img src="Phase1/results/hw0.png" align="center" alt="PBLite" width="400"/>
+<img src="Phase1/results/hw0.png" align="center" alt="PBLite"/>
 
 The main steps for implementing the same are:
 
