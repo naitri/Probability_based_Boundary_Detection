@@ -32,3 +32,18 @@ The gradient maps which are generated are combined with classical edge detectors
 ```
 python Wrapper.py
 ```
+# File structure
+    Phase1
+    ├── Code
+    |  ├── Wrapper.py
+    ├── Data
+    |  ├── BSDS500
+    ├── results
+    |  ├── BrightnessGradient
+    |  ├── Brightness_map
+    |  ├── ColorGradient
+    |  ├── Color_map
+    |  ├── PbLite
+    |  ├── TextonGradient
+    |  ├── TextonMap
+    |  ├── Other filter outputs
